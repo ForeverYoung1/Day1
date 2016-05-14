@@ -7,7 +7,7 @@ public class Exercise2 {
     public static void main(String[] args) {
         System.out.println("Exercise №2");
         Scanner sr = new Scanner(System.in);
-        System.out.println("Введите номер месяца");
+        System.out.println("Enter the number of the month");
         int a = sr.nextInt();
         sr.close();
         switch (a){
