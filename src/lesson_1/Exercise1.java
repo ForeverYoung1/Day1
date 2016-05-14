@@ -19,7 +19,7 @@ public class Exercise1 {
             System.out.println("BIG");
         return;}
 else{
-        System.out.println("CONGRATS!!! a="+a);
+        System.out.println("CONGRATS!!! a NORMAL");
     }}}
 
 
