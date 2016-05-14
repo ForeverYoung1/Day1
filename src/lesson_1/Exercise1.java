@@ -14,7 +14,11 @@ public class Exercise1 {
         sc.close();
         if(a<b){
             System.out.println("little");
-        }else{
+            return;
+        } else  if (a>c){
+            System.out.println("BIG");
+        return;}
+else{
         System.out.println("a="+a);
     }}}
 
